@@ -138,13 +138,10 @@ function buildAndShowHomeHTML (categories) {
       // of how to do that.
       // ....
 
-      $ajaxUtils.sendGetRequest(
-        homeHtmlToInsertIntoMainPage,
-        function(homeHtmlToInsertIntoMainPage){
+      
 
-          insertHtml("#main-content", homeHtmlToInsertIntoMainPage);
-        },
-        false);
+      insertHtml("#main-content", homeHtmlToInsertIntoMainPage);
+       
 
 
 

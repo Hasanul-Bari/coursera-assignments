@@ -1,3 +1,3 @@
 # coursera-assignments
  
- My assignments for coursera courses.
+ My assignments for Coursera courses.
